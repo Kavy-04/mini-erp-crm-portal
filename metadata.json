@@ -1,0 +1,6 @@
+{
+  "name": "Mini ERP + CRM Operations Portal",
+  "description": "Operations portal for wholesale & distribution companies to manage customers, products, stock inventory, and sales challans with role-based access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
