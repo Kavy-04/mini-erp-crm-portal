@@ -170,3 +170,7 @@ https://mini-erp-crm-portal-pi.vercel.app
 
 Repository:
 https://github.com/Kavy-04/mini-erp-crm-portal
+
+## 🚀 Live Demo
+
+https://mini-erp-crm-portal-production-1ef8.up.railway.app
