@@ -162,3 +162,11 @@ The schema establishes relational tables (`users`, `customers`, `customer_follow
 - **Session Expiry**: JWT tokens are configured for a 24-hour expiration window.
 - **Stock Audit Reversals**: Cancelling a confirmed sales challan automatically reverses the stock deduction and logs an inward (`IN`) stock movement.
 - **Single-Location Primary Scope**: Product warehouse locations are tracked per product line item.
+
+## 🌐 Live Deployment
+
+Frontend:
+https://mini-erp-crm-portal-pi.vercel.app
+
+Repository:
+https://github.com/Kavy-04/mini-erp-crm-portal
